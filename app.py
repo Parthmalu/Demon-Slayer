@@ -7,7 +7,7 @@ home_page = '''
 <!doctype html>
 <html lang="en">
 <head>
-  <title>Movie with me?</title>
+  <title>Movie with me?(Tuesday)</title>
   <style>
     body {
       background: linear-gradient(135deg, #6b73ff 0%, #000dff 100%);
